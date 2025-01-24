@@ -1,0 +1,9 @@
+body{background-image: url(web\ back.jpg);background-size: cover;background-repeat: no-repeat; background-position: center;background-attachment: fixed;}
+.spacer{height: 60px;}
+header{background-color: white ;height: 100px;}
+nav{background-color: rgba(127, 255, 212, 0.646);height: 60px; align-content: center;}
+.loginbtn {text-decoration: none;background-color: yellow;color: white;border: 0cap;border-radius: 5px;margin-top: 0%;margin-left: 90%;font-family: Arial, Helvetica, sans-serif;font-size: 20px;height: 40px;}
+article{background-color: skyblue;height: 400px;max-width: 75%;margin-left: auto;margin-right: auto;border-radius: 10px;align-content: center;text-align: center;font-family: 'Courier New', Courier, monospace;}
+.second_article{max-width: 60%;max-height: 350px;background-color: aliceblue;}
+.signupbtn{text-decoration: none;background-color: yellow;color: white;border: 0cap;border-radius: 5px;margin-top: 0%;margin-left: auto;margin-right: auto; font-family: Arial, Helvetica, sans-serif;font-size: 20px; margin-top: 30px;height: 50px;}
+footer{height: 290px;background-color: rgb(75, 75, 75); margin-top: 100px;}

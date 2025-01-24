@@ -1,0 +1,5 @@
+main{height: 100%;background-color: rgba(127, 255, 212, 0.714);border: 10px;border-color: aliceblue;border-radius: 10px;width: 40%;min-width: 600px; margin-left: auto;margin-right: auto;align-content: center;align-items: center;text-align: center;margin-top: 40px;padding-top: 30px;padding-bottom: 60px;}
+.inputbox{width: 300px;margin-top: 20px;height: 40px;border: 0cap;border-radius: 4px;}
+body{background-image: url(web\ back.jpg);background-size: cover;background-repeat: no-repeat; background-position: center;background-attachment: fixed;}
+.text{color: aliceblue;font-family: 'Courier New', Courier, monospace;}
+button{height: 35px;background-color: aliceblue;border: 0cap;border-radius: 5px;width: 60px;}

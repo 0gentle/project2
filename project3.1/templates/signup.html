@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>signup page</title>
+    <link rel="stylesheet" href="inputboxs.css">
+</head>
+
+<body>
+    <form action="/signup" method="post">
+        <main>
+            <h1 class="text" style="font-size: 35px;">Sign up</h1>
+            <p class="text" style="font-size: 20px;">please input your details </p>
+            <input type="text" placeholder="Name " class="inputbox" name="username" required>
+            <input type="text" placeholder="Nickname " class="inputbox" name="usertitle"required>
+            <input type="password" placeholder="Password " class="inputbox" name="userpassword" required>
+            <input type="password" placeholder="Check password " class="inputbox" name="userpasswordcheck" required>
+
+            <div style="padding-top: 30px;"> <button type="submit">signup</button></div>
+            <p class="">Already have an account? <a href="login"
+                    style="text-decoration: none;color: rgb(55, 0, 255);">login</a></p>
+        </main>
+    </form>
+</body>
+
+</html>
